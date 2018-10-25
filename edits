@@ -1,8 +1,7 @@
 Edits-to-do:
 
 Disclaimer component: Ensure the text size is at caption rather than regular.
-.goa-caption set to size 14px and 24 lineheight in the ds and stage.
-https://stage.alberta.ca/report-poacher.aspx at the bottom is a disclaimer.
+I should've mentioned the spacing around it too. 32px top and bottom; 28px left and right :)
 
 Contact Info: Placed the contact info into a light grey box with 28px margins.
 
