@@ -1,15 +1,8 @@
 Edits-to-do:
 
+Disclaimer component: Ensure the text size is at caption rather than regular.
+I should've mentioned the spacing around it too. 32px top and bottom; 28px left and right :)
+
 Contact Info: Placed the contact info into a light grey box with 28px margins.
-Do you mean 32px top and bottom and 28px left and right? ;)
-- No, the font size is not at caption size, so 28px all around ;)
-Url?
-- https://www.alberta.ca/regional-economic-development-resources.aspx#toc-3
-- https://www.alberta.ca/ohs-innovation-engagement-grants-program.aspx
 
 Timeline component: Updated to remove the arrow. Green colour tweaked.
-Url?
-- https://www.alberta.ca/cannabis-legalization.aspx
-
-What is this box on the bottom of this page? https://www.alberta.ca/Jobs/pprofile/pp1051744.htm
-It doesn't look like a Disclaimer, so it must be something else?
