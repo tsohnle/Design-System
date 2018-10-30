@@ -1,9 +1,20 @@
-Edits-to-do:
+Edits-to-do
+-----------
 
-Disclaimer component: Ensure the text size is at caption rather than regular.
-I should've mentioned the spacing around it too. 32px top and bottom; 28px left and right :)
+Update RSS icon and link (refer to 3.13): Right now on the live site, it's a button. I don't think a button is the correct function for this type. This also applies to social media links too. Thoughts?
+See: https://www.alberta.ca/news.aspx
 
-Contact Info: Placed the contact info into a light grey box with 28px margins.
+Update "download" and "external link" icons: \\GOA.ds.gov.ab.ca\SHARED\CPE\Digital Communications\Projects\UX\Projects\XD\Images\iconsSSe
+See: https://www.alberta.ca/employment-services.aspx
+
+Timeline component: There seems to be double spacing at the very bottom. Also, the horizontal line is forming a cross.
+https://stage.alberta.ca/build/20181108/template-content.htm#toc-18
+
+Tables updated (refer to 2.10): Border lines are changed via Christopher's changes.
+See: https://stage.alberta.ca/build/20181108/template-content.htm#toc-17
+
+Alert/emergency (refer to 3.2): Since we have site-wide full page callout banners at the top, I gave it rules that is very close to the one Christopher did. What needs to be corrected is the icon size matching the text size and ensuring spacing is correct. The icon is baseline-aligned to the first letter, not vertically aligned.
+See: https://stage.alberta.ca/build/20181108/template-content.htm
 
 Do you mean 32px top and bottom and 28px left and right? ;)
 - No, the font size is not at caption size, so 28px all around ;)
@@ -12,12 +23,3 @@ Url?
 - https://www.alberta.ca/ohs-innovation-engagement-grants-program.aspx
 Requires markup change. Will have to speak with Raj.
 
-Timeline component: Updated to remove the arrow. Green colour tweaked.
-Url?
-- https://www.alberta.ca/cannabis-legalization.aspx
-completed by Chris and myself:
-https://stage.alberta.ca/build/20181108/template-content.htm#toc-18
-
-What is this box on the bottom of this page? https://www.alberta.ca/Jobs/pprofile/pp1051744.htm
-It doesn't look like a Disclaimer, so it must be something else?
-It's a disclaimer.
