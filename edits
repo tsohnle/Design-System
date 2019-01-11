@@ -1,6 +1,8 @@
 Edits-to-do
 -----------
 
+Add 1px solid #DCDCDC bottom line to the last-child <tr> for each table.
+
 Update RSS icon and link (refer to 3.13): Right now on the live site, it's a button. I don't think a button is the correct function for this type. This also applies to social media links too. Thoughts?
 See: https://www.alberta.ca/news.aspx
 
